@@ -1,0 +1,171 @@
+.LuxurySuite-1{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 405px;
+    height: 296px;
+    margin-left: 37px;
+    margin-top: 40px;
+}
+.LuxurySuite{
+    /* border: 1px solid black; */
+    flex: 1px;
+    border-radius: 5px;
+}
+.Accomodation-images{
+    display: flex;
+}
+.LuxurySuite-tital{
+    color: #000;
+    font-size: 25px;
+    font-weight: 450;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    MARGIN-TOP: 24px;
+    margin-left: 48px;
+}
+.Roomsymbol{
+    width: 67px;
+    margin-top: -2px;
+    margin-left: 53px;
+}
+.LuxurySuite-subtital{
+    display: flex;
+    margin-left: -22px;
+    margin-top: 7px;
+}
+.LuxurySuite-subtital-1{
+    margin-top: 21px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #00000073;
+    font-family: auto;
+}
+.People{
+    width: 30px;
+    margin-top: 16px;
+    margin-left: 27px;
+    height: 30px;
+}
+.LuxurySuite-subtital-2{
+    color: #000000a6;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 23px;
+    margin-left: 10px;
+    font-family: auto;
+
+}
+.LuxurySuite-subtital-3{
+    display: flex;
+}
+
+.curency{
+
+    margin-left: 57px;
+    margin-top: 16px;
+    font-size: 21px;
+    font-weight: 500;
+    font-family: emoji;
+    color: #000000b5;
+
+
+}
+.LuxurySuite-subtital-4{
+
+    
+    margin-left: 12px;
+    margin-top: 22px;
+    font-size: 19px;
+    font-weight: 400;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
+.LuxurySuite-botton-1{
+    background-color: #ab6b19ad;
+    border: none;
+    border-radius: 3px;
+    width: 111px;
+    height: 33px;
+
+}
+.LuxurySuite-botton{
+    margin-left: 86px;
+    margin-top: 14px;
+
+}
+.LuxurySuite-botton-2{
+    color: aliceblue;
+    text-decoration: auto;
+}
+.LuxurySuite-text{
+    border: 1px solid #00000026;
+    width: -25px;
+    margin-left: 37px;
+    margin-right: 8px;
+    margin-top: -4px;
+    height: 210px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+
+}
+.Standarddeluxe{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 403px;
+    height: 296px;
+    margin-left: 37px;
+    margin-top: 40px;
+}
+.Penthous{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 405px;
+    height: 296px;
+    margin-left: 37px;
+    margin-top: 40px;
+
+}
+.curency-1{
+    font-size: 12px;
+    text-decoration: line-through;
+    font-weight: 300;
+    margin-top: -19px;
+    margin-left: -33px;
+}
+.Grandsuite{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 403px;
+    height: 296px;
+    margin-left: 37px;
+    margin-top: 40px;
+
+}
+.view-button{
+    margin-left: 562px;
+    margin-top: 73px;
+    display: flex;
+}
+.view-all-room{
+    text-decoration: none;
+    color: #c4975e;
+    font-family: fangsong;
+    font-size: 20px;
+}
+.view-button-1{
+    border-radius: 5px;
+    border-width: 2px 2px 2px 2px;
+    border-color: #c4975e;
+    padding: 16px 33px 9px 33px;
+    display: flex;
+    background: none;
+    border: solid 2px burlywood;
+
+}
+.star{
+    width: 22px;
+    margin-left: -5px;
+    margin-right: 12px;
+}

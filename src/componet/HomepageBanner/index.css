@@ -1,0 +1,143 @@
+/* .image-container {
+    background-image: ;
+} */
+
+.room{
+    width: 100%;
+    height: 800px;
+    margin-top: 5px;
+}
+.content{
+    margin-top: -667px;
+    margin-left: -13px;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 480;
+    text-align: center;
+
+}
+.paragraph-1{
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: none;
+    color: #ffffff;
+    text-align: center;
+    margin-top: -51px;
+}
+.paragrap-2 {
+    color: #c4975e;
+    text-decoration: auto;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: none;
+
+}
+
+.paragrap-2:hover {color:white;}
+
+.paragrap{
+    margin-top: -51px;
+    
+}
+.option{
+    display: flex;
+    color: #ffffff;
+    margin-left: 251px;
+    margin-top: 120px;
+    cursor: pointer;
+}
+.option-1{
+    display: flex;
+   
+}
+.check-out{
+    margin-left: 28px;
+}
+.option-2{
+    margin-left: 28px;
+
+}
+.option-3{
+    margin-left: 28px;
+}
+.search-room-1{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+.search{
+    margin-left: 12px;
+    width: 163px;
+    height: 49px;
+    margin-top: 29px;
+    background: #c4975e;
+    border: none;
+    border-radius: 5px;
+}
+.box-1{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 18px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 10px;
+    color: black;
+    background-color: #ffffff;
+    width: 151px;
+    margin-left: -16px;
+}
+.box-1{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 18px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 10px;
+    color: black;
+    background-color: #ffffff;
+    width: 151px;
+    margin-left: -16px;
+}
+.box-2{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 18px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 10px;
+    color: black;
+    background-color: #ffffff;
+    width: 151px;
+    margin-left: -16px;
+}
+.box-3{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 18px;
+    border-width: -32px;
+    border-style: solid;
+    margin-top: 10px;
+    color: black;
+    background-color: #ffffff;
+    width: 41px;
+    margin-left: -16px;
+}
+.box-4{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 18px;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 10px;
+    color: black;
+    background-color: #ffffff;
+    width: 181px;
+    margin-left: -16px;
+}

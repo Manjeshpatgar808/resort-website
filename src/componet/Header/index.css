@@ -1,0 +1,171 @@
+.header-section{
+  display: flex;
+  margin-top: 0px;
+  display: flex;
+  position: fixed;
+  background-color: white;
+
+
+}
+.hotale{
+  height: 10px;
+  height: 26px;
+  padding-left: 10px;
+  padding-top: 6px;
+  padding-left: 20px;
+  padding-top: 13px;
+  cursor: pointer;
+}
+.header{
+ 
+  display: flex;
+  padding-left: 150px;
+
+}
+.sign{
+  margin-left: 63px;
+  margin-top: 23px;
+  flex: 1px;
+}
+.button{
+  padding-left: 108.5px;
+  padding-right: 42px;
+  margin-top: 20px;
+  background: none;
+  border: none;
+}
+
+.links{
+ 
+  padding: 1px;
+  padding: 10px;
+  color: #141414;
+  letter-spacing: 1px;
+  font-family: "Oswald",sans-serif;
+  font-family: "Oswald",sans-serif;
+  letter-spacing: .5px;
+  color: #5b5b5b;
+  margin-top: 20px;
+}
+.text{
+  text-decoration: none;
+  color: black;
+}
+.Sing{
+  text-decoration: none;
+  color: black;
+  
+}
+.button-1{
+  border-color: #2b2b2b;
+  color: black;
+  position: relative;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-width: 2px;
+    border-style: solid;
+    padding: 11px 20px;
+     background: none;
+}
+ 
+.button-2{
+  text-decoration: none;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 2px;
+}
+.pointer{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: darkgoldenrod;
+  /* transform: translateX(55px); */
+  margin-top: 9px;
+  margin-left: -18px;
+  
+}
+.links:hover .pointer {
+  background-color:darkgoldenrod;
+  border-radius: 50%;
+  animation: move 0.5s ease-in-out infinite;
+  
+}
+
+
+
+@keyframes move {
+  0% {
+    transform: translateX(-100%);
+  }
+  50% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+  150% {
+    transform: translateX(-100%);
+  }
+  200% {
+    transform: translateX(100%);
+  }
+  250% {
+    transform: translateX(-100%);
+  }
+}
+
+.dropbtn {
+  padding: 22px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background: none;
+    padding-top: 31px;
+}
+
+.dropdown-content-1{
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-content-1 a {
+  color: #5b5b5b;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background: white;
+  
+  
+}
+
+.dropdown-content-1 a:hover {color: black;}
+
+.dropdown:hover .dropdown-content-1 {
+  display: block;
+
+
+}
+.dropdown-content-2{
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-content-2 a {
+  color: #5b5b5b;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background: white;
+}
+
+.dropdown-content-2 a:hover {color:black;}
+
+.dropdown:hover .dropdown-content-2 {
+  display: block;
+
+
+}
